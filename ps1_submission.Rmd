@@ -1,0 +1,43 @@
+---
+title: "Problem Set 1"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+
+This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+
+When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+
+```{r cars}
+summary(cars)
+```
+
+## How to complete the submission
+
+Copy over from the instruction code (or paraphrase - think of this as 
+practice commenting your code) into the html text chunks. Then, in the R
+chunks, write in the code you use to complete each step. Add in additional
+R chunks using the insert button above.
+
+And be sure to include the numbers as in the instructions. So the first
+step would start of looking like this (you'll fill in the R code below).
+
+```{r}
+
+```
+
+## 1 
+
+Import the problem set data file on gibbon foods and name the object food
+
+```{r}
+
+
+```
+
+
